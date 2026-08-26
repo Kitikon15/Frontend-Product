@@ -3,9 +3,9 @@ import './App.css'
 function App() {
 
   return (
-   <>
-    <button>บันทึกข้อมูล</button>
-   </>
+    <>
+      <button className="text-3xl font-bold underline">บันทึกข้อมูล</button>
+    </>
   );
 }
 
